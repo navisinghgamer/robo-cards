@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robo-cards/static/css/main.db529a42.chunk.css",
+    "main.js": "/robo-cards/static/js/main.c9ee3dc0.chunk.js",
+    "main.js.map": "/robo-cards/static/js/main.c9ee3dc0.chunk.js.map",
+    "runtime~main.js": "/robo-cards/static/js/runtime~main.35dd675d.js",
+    "runtime~main.js.map": "/robo-cards/static/js/runtime~main.35dd675d.js.map",
+    "static/js/2.1ff83261.chunk.js": "/robo-cards/static/js/2.1ff83261.chunk.js",
+    "static/js/2.1ff83261.chunk.js.map": "/robo-cards/static/js/2.1ff83261.chunk.js.map",
+    "index.html": "/robo-cards/index.html",
+    "precache-manifest.587c34c04e221444a02371d2a70becd5.js": "/robo-cards/precache-manifest.587c34c04e221444a02371d2a70becd5.js",
+    "service-worker.js": "/robo-cards/service-worker.js",
+    "static/css/main.db529a42.chunk.css.map": "/robo-cards/static/css/main.db529a42.chunk.css.map"
+  }
+}
